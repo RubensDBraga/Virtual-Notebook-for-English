@@ -19,14 +19,14 @@ while True:
             read(file)
             continue
         if option == 2:
-            print('\nWhat do we have for today?')
+            print('What do we have for today?')
             english = str(input('Your new learning in English: '))
             portuguese = str(input('Now, in Portuguese: '))
             create(english, portuguese)
             continue
         if option == 3:
             sleep(0.5)
-            print('\nBye! Happy studying, see you next time!\n')
+            print('Bye! Happy studying, see you next time!\n')
             break
         else:
             print('Option not found. Please choose again')

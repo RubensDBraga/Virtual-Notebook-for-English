@@ -11,4 +11,5 @@ def menu(mensage):
     for posi, item in enumerate(mensage):
         print(f'{posi+1} - {item}')
     option = int(input("\nWhat's your choice? "))
+    print('')
     return option
