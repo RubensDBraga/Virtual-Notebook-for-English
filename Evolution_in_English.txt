@@ -40,4 +40,26 @@ Neat - Algo como "Legal"
 Bath - Banho
 We - Nï¿½s
 Assignments done - Tarefas feitas
-Somebody - Alguém
+Somebody - Alguï¿½m
+About - Sobre
+Parents  - Pais
+Relatives - Parentes
+Married - Casado(a)
+Single - Solteiro(a)
+Boyfriend / Girlfriend - Namorado / Namorada
+Groom / Fiance - Noivo(a)
+Truly - Verdadeiramente
+Husband - Marido
+Wife - Esposa
+Daughters - Filhas
+The Youngest - A mais nova
+The Oldest - A mais velha
+Handsome - Bonito(a)
+Siblings - Irmï¿½os (sem especificar o sexo)
+Pace - Ritmo
+I grew up - Eu cresci
+Grow - Crescer (Grew ï¿½ o passado de Grow)
+Sure - Claro
+Son  - Filho
+Sisterhood - Irmandade
+Neighborhood - Vizinhanï¿½a
