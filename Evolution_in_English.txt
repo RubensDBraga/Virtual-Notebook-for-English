@@ -63,3 +63,20 @@ Sure - Claro
 Son  - Filho
 Sisterhood - Irmandade
 Neighborhood - Vizinhanï¿½a
+Of - De
+Unpolite - Grosseiro
+Sorry, i didn't understand - Desculpe, eu não entendi
+Sorry, can you repeat please? - Desculpe, você pode repetir por favor?
+Its (Sem apóstrofo) - Dele(a)
+Maybe - Talvez
+Who - Quem
+See more  - Veja mais
+Where - Onde
+Boring - Tedioso(a) / Chato
+There  - Lá / Ali
+They - Eles
+Too - Também / Demais
+Meet  - Encontrar
+Did  - Fez
+Things - Coisas
+Smart - Inteligente
