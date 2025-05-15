@@ -80,3 +80,8 @@ Meet  - Encontrar
 Did  - Fez
 Things - Coisas
 Smart - Inteligente
+Not Only - Não apenas
+Answer - Responder
+Anything else - Algo mais?
+Do - Fazer
+Are you an only child? - Voê é filho único?
