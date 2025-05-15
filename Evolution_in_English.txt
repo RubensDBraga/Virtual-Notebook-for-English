@@ -85,3 +85,19 @@ Answer - Responder
 Anything else - Algo mais?
 Do - Fazer
 Are you an only child? - Voê é filho único?
+Turn - Vez / Volta / Virar
+Soon - Breve
+Will - Vai
+Not Yet - Ainda não
+Mostly - Na sua maior parte / Na maioria das vezes
+Born  - Nascer
+Wedding - Casamento
+Deal  - Negociação / Combinado
+Can / Know - Pode / Saber
+Spelling - Ortografia
+Agreement - Acordo
+Split - Dividir
+Forward - Avançar
+Basically - Basicamente
+Which - Qual
+Word - Palavra
