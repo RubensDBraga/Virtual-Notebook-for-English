@@ -65,39 +65,39 @@ Sisterhood - Irmandade
 Neighborhood - Vizinhanï¿½a
 Of - De
 Unpolite - Grosseiro
-Sorry, i didn't understand - Desculpe, eu não entendi
-Sorry, can you repeat please? - Desculpe, você pode repetir por favor?
-Its (Sem apóstrofo) - Dele(a)
+Sorry, i didn't understand - Desculpe, eu nï¿½o entendi
+Sorry, can you repeat please? - Desculpe, vocï¿½ pode repetir por favor?
+Its (Sem apï¿½strofo) - Dele(a)
 Maybe - Talvez
 Who - Quem
 See more  - Veja mais
 Where - Onde
 Boring - Tedioso(a) / Chato
-There  - Lá / Ali
+There  - Lï¿½ / Ali
 They - Eles
-Too - Também / Demais
+Too - Tambï¿½m / Demais
 Meet  - Encontrar
 Did  - Fez
 Things - Coisas
 Smart - Inteligente
-Not Only - Não apenas
+Not Only - Nï¿½o apenas
 Answer - Responder
 Anything else - Algo mais?
 Do - Fazer
-Are you an only child? - Voê é filho único?
+Are you an only child? - Voï¿½ ï¿½ filho ï¿½nico?
 Turn - Vez / Volta / Virar
 Soon - Breve
 Will - Vai
-Not Yet - Ainda não
+Not Yet - Ainda nï¿½o
 Mostly - Na sua maior parte / Na maioria das vezes
 Born  - Nascer
 Wedding - Casamento
-Deal  - Negociação / Combinado
+Deal  - Negociaï¿½ï¿½o / Combinado
 Can / Know - Pode / Saber
 Spelling - Ortografia
 Agreement - Acordo
 Split - Dividir
-Forward - Avançar
+Forward - Avanï¿½ar
 Basically - Basicamente
 Which - Qual
 Word - Palavra
@@ -113,9 +113,34 @@ Fabulous - Fabulosa(o)
 Both - Ambos(a)
 Outgoing - Extrovertido(a)
 Than - Que
-Similarities - Semelhanças
+Similarities - Semelhanï¿½as
 Neat - Arrumado(a)
 Meet - Encontrar
 These - Esses
 Have - Ter
 Phone - Telefone
+Want - Querer
+I saw - Eu vi
+Twice - Duas vezes
+Vowel / Consonant - Vogal / Consoante
+Bought - Comprado(a)
+I agree - Concordo
+Poor - Pobre
+Land - Terra / Tambï¿½m pode ser "Pousar"
+Our - Nossa(o)
+Deal - Combinado
+Song / Music / Songs - Singular / Plural / Plural - Todos significam mï¿½sica
+Chating / Chat - Conversando / Bater papo
+Activity - Atividade
+Lesson - Liï¿½ï¿½o
+Worth - Valor / Merito / Merecimento
+Worth it - Vale a pena
+Expensive - Caro
+Cheap - Barato
+Tip - Dica / Gorjeta
+Enought - Suficiente
+Guess - Adivinhar
+Happens - Acontece
+Noise - Barulho
+Wild - Selvagem
+Appeared - Apareceu
