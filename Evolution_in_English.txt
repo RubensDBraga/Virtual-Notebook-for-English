@@ -144,3 +144,28 @@ Happens - Acontece
 Noise - Barulho
 Wild - Selvagem
 Appeared - Apareceu
+Find out - Descobrir
+Find  - Encontrar
+Native speaker - Falante nativo
+Stranger - Estranho(a)
+Forniture - Móveis
+Check - Verificar
+Mock - Simulado
+How often - Com que frequência
+Often - Muitas vezes / Frequentemente
+There - Lá
+Places - Lugares
+Surrounded by nature - Cercado pela natureza
+How's the weather today? - Como está o tempo hoje?
+Phrases - Frases
+Useful - Útil
+You know it - Você sabe disso
+Like - Como / Gostar
+Building - Prédio
+Dining room - Sala de jantar
+Spacious - Espaçoso(a)
+Cosy - Aconchegante
+Bright - Brilhante
+Warm - Esquentar
+Cool - Legal / Frio
+Convenient - Conveniente
