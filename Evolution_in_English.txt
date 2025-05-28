@@ -169,3 +169,17 @@ Bright - Brilhante
 Warm - Esquentar
 Cool - Legal / Frio
 Convenient - Conveniente
+Near - Aproximar
+Sick - Doente
+Clothes - Roupas
+Means - Quer dizer / Significa
+Wine - Vinho
+Note - Observação
+Coat - Casaco
+Bet - Aposta
+Wait - Espere
+Tub - Banheira
+Sitting - Sentado
+Together - Juntos
+Rommate - Colega de quarto
+Would - Seria
