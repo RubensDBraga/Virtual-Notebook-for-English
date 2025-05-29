@@ -183,3 +183,12 @@ Sitting - Sentado
 Together - Juntos
 Rommate - Colega de quarto
 Would - Seria
+Branch - Filial / Ramo
+Mood - Humor
+Busy - Ocupado
+Seek - Procurar
+Some - Alguns
+Sat - Sentado
+I do not know - Não sei
+We are here - Estamos aqui
+Often - Muitas vezes
