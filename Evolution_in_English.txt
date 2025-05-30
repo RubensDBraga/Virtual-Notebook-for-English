@@ -148,22 +148,22 @@ Find out - Descobrir
 Find  - Encontrar
 Native speaker - Falante nativo
 Stranger - Estranho(a)
-Forniture - Móveis
+Forniture - Mï¿½veis
 Check - Verificar
 Mock - Simulado
-How often - Com que frequência
+How often - Com que frequï¿½ncia
 Often - Muitas vezes / Frequentemente
-There - Lá
+There - Lï¿½
 Places - Lugares
 Surrounded by nature - Cercado pela natureza
-How's the weather today? - Como está o tempo hoje?
+How's the weather today? - Como estï¿½ o tempo hoje?
 Phrases - Frases
-Useful - Útil
-You know it - Você sabe disso
+Useful - ï¿½til
+You know it - Vocï¿½ sabe disso
 Like - Como / Gostar
-Building - Prédio
+Building - Prï¿½dio
 Dining room - Sala de jantar
-Spacious - Espaçoso(a)
+Spacious - Espaï¿½oso(a)
 Cosy - Aconchegante
 Bright - Brilhante
 Warm - Esquentar
@@ -174,7 +174,7 @@ Sick - Doente
 Clothes - Roupas
 Means - Quer dizer / Significa
 Wine - Vinho
-Note - Observação
+Note - Observaï¿½ï¿½o
 Coat - Casaco
 Bet - Aposta
 Wait - Espere
@@ -189,12 +189,12 @@ Busy - Ocupado
 Seek - Procurar
 Some - Alguns
 Sat - Sentado
-I do not know - Não sei
+I do not know - Nï¿½o sei
 We are here - Estamos aqui
 Often - Muitas vezes
 Piece of cake - Giria para: Molezinha
 Soft - Macio
-My style is quite minimalist - Meu estilo é bem minimalista
+My style is quite minimalist - Meu estilo ï¿½ bem minimalista
 Enough - Suficiente
 Drawers - Gavetas
 Rather than - Em vez de
@@ -204,12 +204,25 @@ Arriving - Chegando
 Bought - Comprado
 Many - Quantos - PLURAL
 Much - Quanto - SINGULAR
-See ya - Até mais
+See ya - Atï¿½ mais
 May - Poderia
-Piece - Pedaço
+Piece - Pedaï¿½o
 Yet - Ainda
-Care - Cuidado / Atenção / Cautela
-I don't care - Eu não ligo
+Care - Cuidado / Atenï¿½ï¿½o / Cautela
+I don't care - Eu nï¿½o ligo
 Understand - Entender
 Any - Qualquer
 Why - Por que
+Offer - Oferecer
+Snack - Lanche / Petiscos
+Mug  - Caneca
+Cup - Xï¿½cara
+Glass - Copo e muitas outros recipientes de vidro
+Would you like - Você gostaria
+Would - Seria / Pega o sentido do verbo na frase
+Sure - Claro
+Starvation - Morrendo de fome
+Weirdo - Esquisito
+Some coffee - Um pouco de café
+Things in general - Coisas em geral
+Their - Suas / Seus
