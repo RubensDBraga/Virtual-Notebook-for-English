@@ -200,3 +200,11 @@ Drawers - Gavetas
 Rather than - Em vez de
 Sink - Pia
 Tap - Torneira
+Arriving - Chegando
+Bought - Comprado
+Many - Quantos - PLURAL
+Much - Quanto - SINGULAR
+See ya - Até mais
+May - Poderia
+Piece - Pedaço
+Yet - Ainda
